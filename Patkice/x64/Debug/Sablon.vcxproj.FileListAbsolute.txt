@@ -1,0 +1,4 @@
+C:\Users\mandi\OneDrive\Dokumenti\GRAFIKA\Vezbe\V9\x64\Debug\glew32.dll
+C:\Users\mandi\OneDrive\Dokumenti\GRAFIKA\Vezbe\V9\x64\Debug\Sablon.exe
+C:\Users\mandi\OneDrive\Dokumenti\GRAFIKA\Patkice\x64\Debug\glew32.dll
+C:\Users\mandi\OneDrive\Dokumenti\GRAFIKA\Patkice\x64\Debug\Sablon.exe

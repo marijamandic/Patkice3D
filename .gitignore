@@ -1,0 +1,38 @@
+# Visual Studio specific files to ignore
+*.user
+*.suo
+*.ipch
+*.pch
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Build artifacts (not needed for version control)
+*.obj
+*.exe
+*.exp
+*.ilk
+*.pdb
+*.log
+
+# Build directories (generated during build)
+# Ignore the output directories
+/Debug/
+/Release/
+/x64/
+/x86/
+/build/
+
+# Ignore temporary or system files
+*.tmp
+*.bak
+*.cache
+.DS_Store
+Thumbs.db
+
+# Personal configuration files (your editor config)
+.vscode/
+.vs/
+
+# Ignore LFS tracking files if not needed
+.gitlfs/
